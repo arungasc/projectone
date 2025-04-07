@@ -1,0 +1,37 @@
+#a1{
+    width: 900px;
+    height: 700px;
+    background-color: red;
+}
+#start{
+    color: white;
+    font-size: 45px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+#fc{
+    color: white;
+    font-size: 55px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+#pre1{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: 140px;
+    left: 100px;
+}
+#bh1{
+    width: 120px;
+    height:50px;
+    background-color: #80461B;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    top: 170px;
+    left: 100px;
+}

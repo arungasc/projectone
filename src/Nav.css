@@ -1,0 +1,17 @@
+#ul{
+    display: flex;
+    list-style: none;
+    gap: 12px;
+    position: relative;
+    top: 5px;
+    left: 350px;
+    font-size: 25px;
+}
+#li1{
+    text-decoration: none;
+    color: white;
+}
+#li1:hover{
+    color: #000000;
+    background-color: #80461B;
+}

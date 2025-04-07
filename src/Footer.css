@@ -1,0 +1,51 @@
+#div33 {
+    background-color: #CD7F32;
+    width: 1366px;
+    height: 300px;
+    position: relative;
+}
+#add {
+    position: relative;
+    top: 100px;
+}
+#sathy {
+    color: white;
+    position: relative;
+    top: 100px;
+}
+#email {
+    position: relative;
+    top: 100px;
+}
+#ftr {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+    border: 5px solid white;
+}
+#social {
+    color: #80461B;
+    background-color: #000000;
+    border-radius: 50%;
+    font-size: 40px;
+    position: relative;
+    left: 350px;
+}
+#social2 {
+    color: #80461B;
+    background-color: #000000;
+    border-radius: 50%;
+    font-size: 40px;
+    position: relative;
+    left: 370px;
+}
+#social3 {
+    color: #80461B;
+    background-color: #000000;
+    border-radius: 50%;
+    font-size: 40px;
+    position: relative;
+    left: 390px;
+}
